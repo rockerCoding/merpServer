@@ -1,0 +1,3 @@
+{"level":"info","message":"","service":"my-app"}
+{"level":"info","message":"select * from clientes c where c.id = ?","service":"my-app"}
+{"level":"info","message":"select * from clientes c where c.id = ?"}
